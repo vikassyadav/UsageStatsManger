@@ -34,6 +34,12 @@ Firebase Firestore is a NoSQL cloud database provided by Firebase for storing an
 - `addOnSuccessListener`: Executes a success listener when data is successfully uploaded.
 - `addOnFailureListener`: Executes a failure listener when data upload fails.
 
+##Output
+ 
+![pic1](https://github.com/vikassyadav/UsageStatsManger/assets/124931244/74efdfb0-7ced-4a26-abe2-557c2133711c)
+![pic2](https://github.com/vikassyadav/UsageStatsManger/assets/124931244/6b120a19-0c5f-4814-863b-293d5f85e41c)
+
+
 ## Installation
 
 To run this application:
